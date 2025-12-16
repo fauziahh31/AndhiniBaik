@@ -1004,4 +1004,36 @@ a:focus {
 .footer_section .footer-info p a {
   color: inherit;
 }
+
+.program-card {
+  background: #fcf9f4;
+  padding: 20px;
+  margin-bottom: 20px;
+  border-left: 5px solid #ffbe33; /* warna aksen */
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+  border-radius: 8px;
+}
+
+.program-card h5,
+.program-card h6 {
+  color: hsl(39, 78%, 34%);
+  margin-bottom: 10px
+}
+
+.program-card ul {
+  padding-left: 20px;
+}
+
+
+.program-card h6 {
+  color: hsl(39, 78%, 34%);
+  margin-bottom: 10px;
+}
+
+
+.program-card strong {
+  display: block;
+  margin-top: 10px;
+}
+
 /*# sourceMappingURL=style.css.map */
